@@ -1,0 +1,6 @@
+class Solution {
+    public boolean isValid(TreeNode root) {
+        Stack<TreeNode> s = new Stack();
+        
+    }
+}    
